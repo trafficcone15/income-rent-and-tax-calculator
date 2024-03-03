@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Income Related Rent and Tax Calculator</string>
+    <string name="action_settings">Settings</string>
+	<string name="salary_label">Salary</string>
+    <string name="enter_salary">Enter salary</string>
+	<string name="hours_worked_per_week_label">Hours worked per week</string>
+	<string name="hours_worked_per_week_hint">Enter hours worked per week</string>
+	<string name="student_loan">Include student loan deductions</string>
+	<string name="kiwisaver">Include KiwiSaver deductions</string>
+	<string name="calculate_income_related_rent">Calculate income related rent</string>
+	<string name="market_rent">Include market rent - uses weekly rent</string>
+	<string name="weekly_rent_label">Weekly rent</string>
+	<string name="enter_weekly_rent">Enter weekly rent amount</string>
+	<string name="calculate">calculate</string>
+	<string name="clear_results">clear results</string>
+	<string name="results">Results:</string>
+	<string name="previous_results">Previous results:</string>
+	<string name="salary_frequency_hint">Frequency</string>
+	<string name="output_frequency_hint">Output frequency</string>
+	<string name="kiwisaver_rate_hint">KiwiSaver rate</string>
+	<string name="living_situation_hint">Living situation</string>
+	<string-array name="frequency_array">
+		<item>Hourly</item>
+		<item>Weekly</item>
+		<item>Fortnightly</item>
+		<item>Monthly</item>
+		<item>Yearly</item>
+	</string-array>
+	<string-array name="output_frequency_array">
+		<item>Hourly</item>
+		<item>Weekly</item>
+		<item>Fortnightly</item>
+		<item>Monthly</item>
+		<item>Yearly</item>
+	</string-array>
+	<string-array name="kiwisaver_rate_array">
+		<item>3%</item>
+		<item>4%</item>
+		<item>6%</item>
+		<item>8%</item>
+		<item>10%</item>
+	</string-array>
+	<string-array name="living_situation_array">
+		<item>Living by yourself</item>
+		<item>Single (without children) and living with others but you’re the only person on the tenancy agreement</item>
+		<item>Single with children</item>
+		<item>Living with your partner (with or without children)</item>
+		<item>Living with others (who are not your partner or your children), and there is at least one other person on the tenancy agreement</item>
+	</string-array>
+</resources>
